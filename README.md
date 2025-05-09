@@ -11,7 +11,7 @@ This project showcases a Tableau dashboard analyzing stock market data from 2016
 
 ## Screenshot
 
-![Dashboard Screenshot](Screenshot%20(774).png)![Screenshot (774)](https://github.com/user-attachments/assets/c6267a5f-7f0b-4ac6-a736-c0cf34ef0953)
+[Screenshot (774)](https://github.com/user-attachments/assets/c6267a5f-7f0b-4ac6-a736-c0cf34ef0953)
 
 
 ## How to Use
