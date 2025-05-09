@@ -9,7 +9,7 @@ This project showcases a Tableau dashboard analyzing stock market data from 2016
 - Detailed price comparisons
 - Moving averages (MA50 & MA200)
 
-## Screenshot
+## Dashboard Screenshot
 
 
 ![Screenshot (774)](https://github.com/user-attachments/assets/dc992e68-e7c1-4d03-9507-72a3799b4098)
